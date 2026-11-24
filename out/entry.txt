@@ -1,1 +1,0 @@
-v2.0.1: fixed a bug where the brain replayed an embarrassing moment from 2014 every time the user tried to fall asleep.
